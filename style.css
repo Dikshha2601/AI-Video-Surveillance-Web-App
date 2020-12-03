@@ -1,0 +1,45 @@
+body {
+  background-size: cover;
+  background-position: center;
+}
+
+.heading {
+  margin: 0px;
+  font-size: 25px;
+  width: 100%;
+  line-height: 1.6;
+  padding-left: 30px;
+  text-align: left;
+}
+
+#start {
+  font-size: 20px;
+  float: right;
+  margin-right: 30px;
+}
+#no_of_objects {
+  font-size: 18px;
+  float: left;
+  margin-left: 30px;
+}
+#status {
+  font-size: 18px;
+  float: right;
+  margin-right: 30px;
+}
+
+.copyright_footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #ffffff;
+  background-color: gray;
+  font-size: 18px;
+  line-height: 3;
+}
+
+canvas {
+  border: 2px solid white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px white;
+}
